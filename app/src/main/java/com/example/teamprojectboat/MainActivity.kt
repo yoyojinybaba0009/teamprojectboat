@@ -185,7 +185,7 @@ fun DrawrBody() {
 }
 
 @Composable
-fun CalendarItem(day: Int) {
+fun CalendarItem(day: Int) {    // 캘린더 생성 완료
     Box(
         modifier = Modifier
             .padding(4.dp)
@@ -195,6 +195,7 @@ fun CalendarItem(day: Int) {
         contentAlignment = Alignment.Center
     ) {
         Text(text = day.toString(), color = Color.White)
+
     }
 }
 
