@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "525516832921",
+    "project_id": "goat-project-35960",
+    "storage_bucket": "goat-project-35960.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525516832921:android:0fde18f05bb81c3f1ab808",
+        "android_client_info": {
+          "package_name": "com.example.teamprojectboat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525516832921-cloaq29tog5ijime5o92j0m8pgifh7bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC69z9GjP0C0wOXwT3mTCTyJZWkNyfj2RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525516832921-cloaq29tog5ijime5o92j0m8pgifh7bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525516832921:android:3afc27f950752c941ab808",
+        "android_client_info": {
+          "package_name": "goat.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525516832921-cloaq29tog5ijime5o92j0m8pgifh7bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC69z9GjP0C0wOXwT3mTCTyJZWkNyfj2RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525516832921-cloaq29tog5ijime5o92j0m8pgifh7bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
